@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+
+# Artifacts
+*.npz
+*.pt
+
+# OS
+.DS_Store
